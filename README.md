@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
 <h3 align="center">A Business Analyst & Product Professional</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.evvosoft.com%2Fbusiness-intelligence&psig=AOvVaw0he4HzVPHUnfmCZ-oMcPL8&ust=1694997751658000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjkyuu0sIEDFQAAAAAdAAAAABAJ)">
 
 
 - 🌱 I’m currently learning **T-SQL, Agile, IBM SPSS**
