@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">A Business Analyst & Product Professional</h3>
+<h3 align="center">A Business Analyst & Product Management Professional</h3>
 <img align="right" alt="Coding" width="400" src="https://www.congruentsoft.com/images/bi/bi-dashboard.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/akanksha.sehgal1025](https://public.tableau.com/app/profile/akanksha.sehgal1025)
 
-- 💬 Ask me about **Market Analytics and Product Roadmap**
+- 💬 Ask me about **Market Analytics and Product Roadmapping**
 
 - 📫 How to reach me **akanksha.sehgal106@gmail.com**
 
