@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">A Business Analyst & Product Management Professional</h3>
+<h3 align="center">A Business Analyst & Suuply Chain Management Professional</h3>
 <img align="right" alt="Coding" width="400" src="https://www.congruentsoft.com/images/bi/bi-dashboard.gif">
 
 
